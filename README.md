@@ -169,7 +169,7 @@ python3 server.py
 License
 --------
 
-Copyright &copy; 2004-2025 Yuki Naito
+Copyright &copy; 2004-2026 Yuki Naito
  ([@meso_cacase](https://twitter.com/meso_cacase))  
 This software is distributed under
 [modified BSD license](https://www.opensource.org/licenses/bsd-license.php).

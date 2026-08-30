@@ -333,7 +333,7 @@ $message =~ s{^(ERROR.*)$}{<p><font color=red>$1</font></p>}s ;
 
 <hr><!-- ________________________________________ -->
 
-<p><font color=gray>Last modified on Apr 28, 2025 by
+<p><font color=gray>Last modified on Apr 17, 2026 by
 <a target='_blank' href='http://twitter.com/meso_cacase'>@meso_cacase</a>
 </font></p>
 --EOS--
